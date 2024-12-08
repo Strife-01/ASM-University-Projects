@@ -1,7 +1,6 @@
 # ASM University Projects
 
 ![Assembly Language](https://raw.githubusercontent.com/github/explore/main/topics/assembly/assembly.png)
-![University Projects](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/1200px-Commons-logo.svg.png)
 
 This repository contains a collection of assembly language projects developed during my university coursework. Each project demonstrates various concepts and techniques in low-level programming, providing practical insights into computer architecture and system operations.
 
@@ -97,7 +96,7 @@ cd ASM-University-Projects/[Project-Directory]
 
 ## Project Showcase
 
-[![ASM University Projects Showcase](https://youtu.be/Nj5aIHk4Dec)](https://youtu.be/Nj5aIHk4Dec)
+[![Nokia 3310 Ringtone Showcase](https://youtu.be/Nj5aIHk4Dec)](https://youtu.be/Nj5aIHk4Dec)
 
 *Click on the image above to watch a quick demo of the projects.*
 
